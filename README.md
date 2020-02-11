@@ -8,6 +8,10 @@
 链接：https://www.zhihu.com/question/56110328/answer/370752381
 
 
+8种基本数据类型：`byte`，`int`，`short`，`long`，`float`，`double`，`char`，`boolean`
+
+
+
 计算机内存的最小存储单元是字节 二进制 `00000000` ~ `11111111`, 成十进制是 `0~255`，换算成十六进制是`00`~`ff`
 * 1 `byte` = 8 `bit` 
 * 1 `K` = 1024 `byte` 
