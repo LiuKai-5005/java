@@ -1,0 +1,13 @@
+
+sort 的本质based on 某种priority
+
+bubble sort
+insertion sort
+selection sort
+双指针的i走不完 size()
+j需要j+1
+merge sort
+
+array.length  是一个field
+str.length() 是一个method
+list.size() 是一个method
