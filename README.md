@@ -157,7 +157,7 @@ public class Main {
 ```java
 char c1 = 'A'; // 字母“A”的Unicodde编码是65
 int n1 = 'A'; // 字母“A”的Unicodde编码是65
-
+char c3 = '\u0041'; // 'A'，因为十六进制0041 = 十进制65
 
 
 
