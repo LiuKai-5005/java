@@ -151,5 +151,16 @@ public class Main {
 
 上述语句的意思是，判断`n >= 0`是否成立，如果为`true`，则返回`n`，否则返回`-n`。这实际上是一个求绝对值的表达式。
 
+## 字符和字符串
+在Java中，字符`char`和字符串`String`是两个不同的类型<br>
+一个`char`保存一个Unicode字, Java在内存中总是使用Unicode表示字符
+```java
+char c1 = 'A'; // 字母“A”的Unicodde编码是65
+int n1 = 'A'; // 字母“A”的Unicodde编码是65
+
+
+
+
+
 
 
