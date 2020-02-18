@@ -53,7 +53,7 @@ array[mid] --> matrix[mid / cols][mid % cols]
 
 
 
-
+```java
 public int[][] matrixSearch(int[][] matrix, int target){
   int left = 0, right;
   if (matrix == null || matrix[0] == null || matrix[0].length = 0) {
@@ -72,7 +72,7 @@ public int[][] matrixSearch(int[][] matrix, int target){
   
   }
 }
-
+```
 
 
 
