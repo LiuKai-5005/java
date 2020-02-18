@@ -19,8 +19,8 @@ l             r
 
 probing --> hash collision --> check website --> how to check website is available(day 1, day 2, day 4, day 8) --back off -->collision thread network delay --> (delay 1s, delay 2s, delay 4s, delay 8s)
 
-
-if (myArray == null || myArray.get(0) == null) {//TODO: (tell you something to the interviewer) --> 表现专业性
+```java
+if (myArray == null || myArray.get(0) == null) {//TODO: (tell you something to the interviewer)// 表现专业性
 
   int left = 0;
   int right = 1:
@@ -35,7 +35,7 @@ while (xxx)  { <--check for the last time
 
 
 }
-
+```
 
 
 Java --> VM --> memory 
